@@ -10,7 +10,7 @@ Welcome to CryptoNest, your one-stop destination for all things cryptocurrency. 
 
 ## Demo
 
-Check out the live demo of CryptoNest: [Demo Link](https://cryptonest.netlify.app/)
+Check out the live demo of CryptoNest: [Demo Link](https://cryptonewsx-rbdev.netlify.app/)
 
 ## Features
 
@@ -68,7 +68,7 @@ Special thanks to Coinranking API and Bing News Search API for providing essenti
 
 ## Authors
 
-- [Dexter](https://github.com/soham-basak)
+- [rahulbaghel007](https://github.com/rahulbaghel007)
 
 ## Contribution
 
