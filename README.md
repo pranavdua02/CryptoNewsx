@@ -66,9 +66,6 @@ Stay updated with the latest crypto news articles. Get real-time updates on the 
 
 Special thanks to Coinranking API and Bing News Search API for providing essential data.
 
-## Authors
-
-- [rahulbaghel007](https://github.com/rahulbaghel007)
 
 ## Contribution
 
